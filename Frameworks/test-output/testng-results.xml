@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-04T11:39:06 EDT" name="Default suite" finished-at="2020-06-04T11:39:37 EDT" duration-ms="31362">
+    <groups>
+    </groups>
+    <test started-at="2020-06-04T11:39:06 EDT" name="Default test" finished-at="2020-06-04T11:39:37 EDT" duration-ms="31362">
+      <class name="keywordDriverFramework.Application">
+        <test-method signature="InvalidLogin()[pri:0, instance:keywordDriverFramework.Application@3d121db3]" started-at="2020-06-04T11:39:06 EDT" name="InvalidLogin" finished-at="2020-06-04T11:39:37 EDT" duration-ms="31284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLogin -->
+      </class> <!-- keywordDriverFramework.Application -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
