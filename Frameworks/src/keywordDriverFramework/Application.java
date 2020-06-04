@@ -10,7 +10,7 @@ import utils.GenericMethods;
 public class Application {
 
 	@Test
-	public void InvalidLogin() throws IOException {
+	public void InvalidLogin() throws IOException { //Changes in comment after release 1.1
 		String[][] data = GenericMethods.getData("C:\\SHIVANI\\Selenium Java Practice\\Excel for Framework parameter values\\NewtoursTestData.xlsx", "Sheet2");
 
 		for(int i=1;i<data.length;i++) {
